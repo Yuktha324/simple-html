@@ -14,8 +14,7 @@
 
 <!-- Assignment 2 , 3 , 4-->
 <p> Hi! hi name is Yuktha s reddy I'm form banglore.I'm currrently studying in Banglore instutes of technology pursuing CSE(Data science).<br>
-    My hobbies are to play basket ball , watch movies , Drawing. </p>
-
+My hobbies are to play basket ball , watch movies , Drawing. </p>
 
 <p>why web devlopment ?<br>
     <i>I choose web devlopment because it is easy to learn it also enhances our designing skills and develops problem solving skills and can also do open source contribution.</i></p>  
@@ -23,7 +22,6 @@
 <p>So far from heading tag i have learnt that  there are <u>6 heading  tags </u>and h1 tag defines most important head like main heading and the othere heading tags are used for subheading .<u> h1 has the hightest font size and h6 had the least .</u> </p>
 
 <img src="https://static.javatpoint.com/definition/images/html-definition6.png"></img> <br>
-
 
 <input type="text">
 
@@ -48,4 +46,4 @@
 <!-- Assignment 6 -->
  <a href="about:blank" target="_blank">Visit My Favorite Website</a>
  <br>
-<a href="#html-topics-covered">Go to HTML Topics Covered</a>
+ <a href="#html-topics-covered">Go to HTML Topics Covered</a>
