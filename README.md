@@ -44,6 +44,7 @@ My hobbies are to play basket ball , watch movies , Drawing. </p>
 </ol>
 
 <!-- Assignment 6 -->
- <a href="about:blank" target="_blank">Visit My Favorite Website</a>
+ <a href="Visit My Favorite Website"></a>
+
  <br>
  <a href="#html-topics-covered">Go to HTML Topics Covered</a>
