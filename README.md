@@ -47,5 +47,6 @@
 
 <!-- Assignment 6 -->
  <a href="about:blank" target="_blank">Visit My Favorite Website</a>
+
 <br>
 <a href="#html-topics-covered">Go to HTML Topics Covered</a>
