@@ -22,7 +22,8 @@
 
 <p>So far from heading tag i have learnt that  there are <u>6 heading  tags </u>and h1 tag defines most important head like main heading and the othere heading tags are used for subheading .<u> h1 has the hightest font size and h6 had the least .</u> </p>
 
-<img src="https://dmguru.in/pages/default/assets/images/heading-tags.jpg" alt=""></img>
+<img src="https://static.javatpoint.com/definition/images/html-definition6.png"></img> <br>
+
 
 <input type="text">
 
@@ -45,8 +46,6 @@
 </ol>
 
 <!-- Assignment 6 -->
-
-<a href="Visit My Favorite Website"! </a>
-
-
-<a href="SIMPLE.HTML"></a>
+<a href="about:blank" target="_blank">Visit My Favorite Website</a> 
+<br>
+<a href="#html-topics-covered">Go to HTML Topics Covered</a>
