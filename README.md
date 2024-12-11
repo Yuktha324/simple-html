@@ -1,6 +1,6 @@
 <!-- Assignment 1 -->
- <h1>Welcome to HTML Bootcamp</h1>
- <hr></hr>
+<h1>Welcome to HTML Bootcamp</h1>
+<hr></hr>
 <h2>Today's Topic =  heading tag , paragraph tag , list tag</h2>
 <h3>Heading tag = there are 6 heading  tags the size and boldness of the text differes in each of them 
     <h1>This is heading h1</h1>
@@ -47,6 +47,5 @@
 
 <!-- Assignment 6 -->
  <a href="about:blank" target="_blank">Visit My Favorite Website</a>
-
-<br>
+ <br>
 <a href="#html-topics-covered">Go to HTML Topics Covered</a>
